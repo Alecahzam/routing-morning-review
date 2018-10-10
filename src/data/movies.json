@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Big Hero 6",
+      "type": "Super hero / action",
+      "description":
+        "Bad ass cartoon kid geniuses fighting crime with nano-bots.",
+        "img": "https://is2-ssl.mzstatic.com/image/thumb/Video49/v4/44/8a/0d/448a0d6d-8449-e965-c793-5ba2924fc529/pr_source.lsr/268x0w.png"
+    },
+    {
+      "title": "BirdMan",
+      "type": "Drama",
+      "description":
+        "Washed up loser writes screenplay for theatre. Is insane.",
+        "img": "https://static.tvgcdn.net/feed/1/382/thumbs/12995382_1300x1733.jpg"
+    },
+    {
+        "title": "Grand Budapest Hotel",
+        "type": "Comedy",
+        "description":
+          "Story of how a tiny boy goes to own a hotel",
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51G-6nEIH8L.jpg"
+      },
+      {
+        "title": "Harry Potter",
+        "type": "Fiction",
+        "description":
+          "Little wizard that can talk to snakes is impossible to kill",
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51gHME-uBsL.jpg"
+      },
+      {
+        "title": "Fargo",
+        "type": "Drama",
+        "description":
+          "Small town murder, everyone talks funny.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/3/33/Fargo_%281996_movie_poster%29.jpg"
+      }
+  ]

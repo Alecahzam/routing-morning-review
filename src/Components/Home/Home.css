@@ -1,0 +1,12 @@
+.home {
+    margin: 2%;
+}
+
+.home h3 {
+    border-bottom: 1px solid #cfcfcf;
+    padding-bottom: 1%;
+}
+
+.movie_map h4:hover{
+    transform: scale(1.02)
+}
