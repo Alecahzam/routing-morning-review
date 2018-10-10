@@ -1,3 +1,7 @@
 .movies img {
     height: 400px;
 }
+
+.movies h4 {
+    margin: 0;
+}

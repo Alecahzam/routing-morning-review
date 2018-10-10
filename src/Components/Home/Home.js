@@ -18,8 +18,7 @@ class Home extends Component {
   render() {
     const { movies } = this.state;
 
-
-    // map over what is on state. Set the Link param to the title of the map(movie)
+    // map over what is on state. Set the Link param to the title of the map (movie).
     const movieMap = movies.map((e, i) => {
       return (
         <Link key={i} to={`/movies/${e.title}`}>
