@@ -7,7 +7,8 @@ const Header = () => {
     return (
         <div className='header'>
             <Link to='/'>Home</Link> 
-            <Link to='/about'>About</Link>            
+            <Link to='/about'>About</Link>    
+            <Link to='/review'>Review</Link>                                
         </div>
     );
 };

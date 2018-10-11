@@ -7,6 +7,7 @@ import About from './Components/About/About';
 import Contact from './Components/Contact/Contact';
 import Home from './Components/Home/Home';
 import Movies from './Components/Movies/Movies';
+import Review from './Components/Review/Review';
 
 export default (
     //Don't forget to wrap the Routes in Switch
@@ -14,6 +15,7 @@ export default (
   <Switch>
     <Route path='/about' component={About}/>
     <Route path='/contact' component={Contact}/>
+    <Route path='/review' component={Review}/>    
     <Route path='/movies/:title' component={Movies}/>
     <Route exact path="/" component={Home} />
     <Route path="*" render={() => <div><h1>Four-oh-four</h1><p>Sup Ron</p></div>} />
